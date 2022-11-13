@@ -1,4 +1,4 @@
-# NanoCAD
+# ![logo](logo.png)
 NanoCAD is a simple, text based 3D modeling program for low-poly models that is able to load, edit and save any `.obj`-file.   
 
 ![image](https://user-images.githubusercontent.com/78918080/201521310-9771a1af-3e4b-4fc7-ab89-09ae3b2b071e.png)
