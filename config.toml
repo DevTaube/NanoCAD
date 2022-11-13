@@ -1,0 +1,21 @@
+
+[project]
+name = "NanoCAD"
+authors = ["DevTaube"]
+version = "0.1.0"
+main_class = "devtaube.nanocad.Main"
+vmargs = "-Xmx2G"
+
+[config-general]
+target_fps = 60
+console = false
+
+[config-graphics]
+icon = ""
+vsync = false
+
+[config-graphics-desktop]
+width = 848
+height = 480
+resizable = true
+fullscreen = false
