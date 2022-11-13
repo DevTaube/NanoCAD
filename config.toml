@@ -11,7 +11,7 @@ target_fps = 60
 console = false
 
 [config-graphics]
-icon = ""
+icon = "icon/icon.png"
 vsync = false
 
 [config-graphics-desktop]
